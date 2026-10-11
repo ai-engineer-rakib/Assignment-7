@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-base-200 text-base-content font-bn;
+}
+
+@layer components {
+  .skeleton {
+    @apply animate-pulse rounded-lg bg-base-300;
+  }
+  .container-bz {
+    @apply mx-auto w-full max-w-6xl px-4;
+  }
+  .card-bz {
+    @apply rounded-2xl border border-base-300 bg-base-100;
+  }
+  .field-input {
+    @apply h-10 w-full rounded-lg border border-base-300 bg-base-100 px-3 text-sm outline-none transition focus:border-primary focus:ring-2 focus:ring-primary/20;
+  }
+}
+
+.marquee-wrap:hover .animate-marquee {
+  animation-play-state: paused;
+}
