@@ -3,7 +3,7 @@
 > প্রয়োজনীয় পণ্যের দাম এক নজরে — চাল, ডাল, সবজি, মাছ-মাংসসহ নিত্যপ্রয়োজনীয় পণ্যের আজকের বাজার দর, দাম বাড়া-কমার হার এবং বাজারভিত্তিক তুলনা।
 
 **Live Link:** _(deploy করার পর এখানে দিন)_
-**GitHub Repository:** _(repo link এখানে দিন)_
+**GitHub Repository:** https://github.com/ai-engineer-rakib/Assignment-7
 
 ---
 
@@ -23,14 +23,14 @@ BazarDor হলো একটি Next.js ভিত্তিক বাজার-�
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-| --- | --- |
-| Next.js 14 (App Router) | UI + routing + API proxy |
-| Tailwind CSS 3 + DaisyUI 4 | Styling & responsiveness |
-| Better Auth | Authentication (email/password, Google, GitHub) |
-| MongoDB (Atlas) | Better Auth database |
+| Technology                    | Purpose                                             |
+| ----------------------------- | --------------------------------------------------- |
+| Next.js 14 (App Router)       | UI + routing + API proxy                            |
+| Tailwind CSS 3 + DaisyUI 4    | Styling & responsiveness                            |
+| Better Auth                   | Authentication (email/password, Google, GitHub)     |
+| MongoDB (Atlas)               | Better Auth database                                |
 | Programming Hero Bazardor API | `https://openapi.programming-hero.com/api/bazardor` |
-| react-hot-toast | Toast notifications |
+| react-hot-toast               | Toast notifications                                 |
 
 ## 🚀 Getting Started
 
